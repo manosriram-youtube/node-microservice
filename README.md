@@ -1,1 +1,1 @@
-`NodeJS Microservice application using RabbitMQ.`
+`NodeJS Microservice sample application using RabbitMQ.`
